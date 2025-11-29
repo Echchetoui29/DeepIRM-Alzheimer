@@ -1,0 +1,33 @@
+{
+  "dataset_path": "/mnt/c/Users/ghout/Desktop/augmented-alzheimer-mri-dataset/AugmentedAlzheimerDataset",
+  "dataset_name": "Augmented",
+  "normalization": {
+    "mean": 0.2945545017719269,
+    "std": 0.3180045485496521,
+    "mean_255": 75.11139678955078,
+    "std_255": 81.0911636352539,
+    "total_pixels": 1255552000,
+    "num_images": 33984
+  },
+  "dimensions": {
+    "width": {
+      "min": 180,
+      "max": 200,
+      "mean": 196.23352165725046,
+      "median": 200.0,
+      "mode": 200
+    },
+    "height": {
+      "min": 180,
+      "max": 190,
+      "mean": 188.11676082862525,
+      "median": 190.0,
+      "mode": 190
+    },
+    "aspect_ratio": {
+      "min": 1.0,
+      "max": 1.0526315789473684,
+      "mean": 1.0427197938348693
+    }
+  }
+}
